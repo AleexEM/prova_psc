@@ -133,7 +133,7 @@ public class prova_psc {
 	}
 		
 }
-//		Regra de negocio X (Nao consegui emplementar ela no codigo)
+//		Regra de negocio X (Nao consegui colocar ela no codigo)
 //        if (estado == RS ) {
 //        	int beneficio_rs = (beneficio * 10 / 100);
 //        	beneficio_rs = (beneficio + beneficio_rs);
